@@ -25,6 +25,7 @@ This project analyzes the [US Accidents dataset](https://www.kaggle.com/sobhanmo
   - [Which days of the week have the most accidents?](#6-which-days-of-the-week-have-the-most-accidents)
   - [Which months have the most accidents?](#7-which-months-have-the-most-accidents)
   - [What is the trend of accidents YoY (decreasing/increasing)?](#8-what-is-the-trend-of-accidents-yoy-decreasingincreasing)
+- [Summary & Conclusion](#summary--conclusion)
 
 ## Technologies Used
 
